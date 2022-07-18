@@ -20,18 +20,7 @@
         "data": "MYerccy5OpfpoWsRbGeFeNQ4+gd+QVvkSf6VBEX/cXk="
       }
     },
-    "signedPreKey": {
-      "keyPair": {
-        "private": {
-          "type": "Buffer",
-          "data": "SGA7yl/WrRClC9TXLgH4IONnix98X+W7r89fKgLd8V0="
-        },
-        "public": {
-          "type": "Buffer",
-          "data": "k8m78NIlO8bKKlEAzgge3XEX2dPOYKhi30rWD1bcMHY="
-        }
-      },
-      "signature": {
+
         "type": "Buffer",
         "data": "N/Ri4I5QClYK53hDxm1iD6PnGKHd4YKx7D0pj19bOFCe/qvOhRW9RZrTFjJ7GZXOKSQHvq5fErdK8B6KVtORgg=="
       },
